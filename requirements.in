@@ -1,2 +1,7 @@
 # requirements.in
-# Пока нет runtime-зависимостей
+flask==3.1.0
+gspread==6.1.4
+gunicorn==23.0.0
+pandas==2.2.3
+pymongo==4.10.1
+requests==2.32.3
